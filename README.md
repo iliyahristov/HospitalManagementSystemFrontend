@@ -1,4 +1,5 @@
 # HospitalManagementSystemFrontend
+This project was written as a course work by Ilija Hristov, major STD, 2nd year, course "Event Programming", at Plovdiv University "Paisii Hilendarski"
 
 ## Description
 A ReactJS application using PrimeReact for managing doctors, patients, examinations, and medical specialties.

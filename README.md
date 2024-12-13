@@ -3,6 +3,7 @@ This project was written as a course work by Ilija Hristov, major STD, 2nd year,
 
 ## Description
 A ReactJS application using PrimeReact for managing doctors, patients, examinations, and medical specialties.
+This frontend is part of a project with backend, that can be found here : https://github.com/iliyahristov/HospitalManagementSystemBackend
 
 ## Features
 - CRUD operations
